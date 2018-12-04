@@ -1,0 +1,421 @@
+[{
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 1,
+  "preAllocationShotfalls": 20.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 2,
+  "preAllocationShotfalls": 47.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 3,
+  "preAllocationShotfalls": 21.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 4,
+  "preAllocationShotfalls": 41.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 5,
+  "preAllocationShotfalls": 29.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 6,
+  "preAllocationShotfalls": 9.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 7,
+  "preAllocationShotfalls": 76.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 8,
+  "preAllocationShotfalls": 97.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 9,
+  "preAllocationShotfalls": 29.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 10,
+  "preAllocationShotfalls": 66.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 11,
+  "preAllocationShotfalls": 60.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 12,
+  "preAllocationShotfalls": 92.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 13,
+  "preAllocationShotfalls": 94.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 14,
+  "preAllocationShotfalls": 27.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 15,
+  "preAllocationShotfalls": 43.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 16,
+  "preAllocationShotfalls": 75.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 17,
+  "preAllocationShotfalls": 74.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 18,
+  "preAllocationShotfalls": 41.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 19,
+  "preAllocationShotfalls": 61.0
+}, {
+  "afterAllocationShotfalls": 0.0,
+  "allocationShotfalls": 0.0,
+  "fundPoolId": 20,
+  "preAllocationShotfalls": 64.0
+}],
+
+{
+  "resultCode": 0,
+  "resultMsg": "success",
+  "list": [{
+    "fundPoolId": 1,
+    "preAllocationShotfalls": 20.0,
+    "allocationShotfalls": 216.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 2,
+    "preAllocationShotfalls": 47.0,
+    "allocationShotfalls": 243.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 3,
+    "preAllocationShotfalls": 21.0,
+    "allocationShotfalls": 217.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 4,
+    "preAllocationShotfalls": 41.0,
+    "allocationShotfalls": 237.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 5,
+    "preAllocationShotfalls": 29.0,
+    "allocationShotfalls": 225.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 6,
+    "preAllocationShotfalls": 9.0,
+    "allocationShotfalls": 205.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 7,
+    "preAllocationShotfalls": 76.0,
+    "allocationShotfalls": 272.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 8,
+    "preAllocationShotfalls": 97.0,
+    "allocationShotfalls": 293.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 9,
+    "preAllocationShotfalls": 29.0,
+    "allocationShotfalls": 225.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 10,
+    "preAllocationShotfalls": 66.0,
+    "allocationShotfalls": 262.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 11,
+    "preAllocationShotfalls": 60.0,
+    "allocationShotfalls": 256.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 12,
+    "preAllocationShotfalls": 92.0,
+    "allocationShotfalls": 288.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 13,
+    "preAllocationShotfalls": 94.0,
+    "allocationShotfalls": 290.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 14,
+    "preAllocationShotfalls": 27.0,
+    "allocationShotfalls": 223.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 15,
+    "preAllocationShotfalls": 43.0,
+    "allocationShotfalls": 239.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 16,
+    "preAllocationShotfalls": 75.0,
+    "allocationShotfalls": 271.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 17,
+    "preAllocationShotfalls": 74.0,
+    "allocationShotfalls": 270.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 18,
+    "preAllocationShotfalls": 41.0,
+    "allocationShotfalls": 237.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 19,
+    "preAllocationShotfalls": 61.0,
+    "allocationShotfalls": 257.7,
+    "afterAllocationShotfalls": -196.7
+  }, {
+    "fundPoolId": 20,
+    "preAllocationShotfalls": 64.0,
+    "allocationShotfalls": 260.7,
+    "afterAllocationShotfalls": -196.7
+  }]
+}
+
+
+{
+"resultCode": 0,
+"resultMsg": "success",
+"list": [{
+"fundPoolId": 1,
+"preAllocationShotfalls": 20.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 20.0
+}, {
+"fundPoolId": 2,
+"preAllocationShotfalls": 47.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 47.0
+}, {
+"fundPoolId": 3,
+"preAllocationShotfalls": 21.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 21.0
+}, {
+"fundPoolId": 4,
+"preAllocationShotfalls": 41.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 41.0
+}, {
+"fundPoolId": 5,
+"preAllocationShotfalls": 29.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 29.0
+}, {
+"fundPoolId": 6,
+"preAllocationShotfalls": 9.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 9.0
+}, {
+"fundPoolId": 7,
+"preAllocationShotfalls": 76.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 76.0
+}, {
+"fundPoolId": 8,
+"preAllocationShotfalls": 97.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 97.0
+}, {
+"fundPoolId": 9,
+"preAllocationShotfalls": 29.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 29.0
+}, {
+"fundPoolId": 10,
+"preAllocationShotfalls": 66.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 66.0
+}, {
+"fundPoolId": 11,
+"preAllocationShotfalls": 60.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 60.0
+}, {
+"fundPoolId": 12,
+"preAllocationShotfalls": 92.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 92.0
+}, {
+"fundPoolId": 13,
+"preAllocationShotfalls": 94.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 94.0
+}, {
+"fundPoolId": 14,
+"preAllocationShotfalls": 27.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 27.0
+}, {
+"fundPoolId": 15,
+"preAllocationShotfalls": 43.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 43.0
+}, {
+"fundPoolId": 16,
+"preAllocationShotfalls": 75.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 75.0
+}, {
+"fundPoolId": 17,
+"preAllocationShotfalls": 74.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 74.0
+}, {
+"fundPoolId": 18,
+"preAllocationShotfalls": 41.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 41.0
+}, {
+"fundPoolId": 19,
+"preAllocationShotfalls": 61.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 61.0
+}, {
+"fundPoolId": 20,
+"preAllocationShotfalls": 64.0,
+"allocationShotfalls": 0.0,
+"afterAllocationShotfalls": 64.0
+}]
+}
+
+
+{
+"resultCode": 0,
+"resultMsg": "success",
+"list": [{
+"fundPoolId": 1,
+"preAllocationShotfalls": 20.0,
+"allocationShotfalls": 16.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 2,
+"preAllocationShotfalls": 47.0,
+"allocationShotfalls": 43.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 3,
+"preAllocationShotfalls": 21.0,
+"allocationShotfalls": 17.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 4,
+"preAllocationShotfalls": 41.0,
+"allocationShotfalls": 37.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 5,
+"preAllocationShotfalls": 29.0,
+"allocationShotfalls": 25.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 6,
+"preAllocationShotfalls": 9.0,
+"allocationShotfalls": 5.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 7,
+"preAllocationShotfalls": 76.0,
+"allocationShotfalls": 72.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 8,
+"preAllocationShotfalls": 97.0,
+"allocationShotfalls": 93.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 9,
+"preAllocationShotfalls": 29.0,
+"allocationShotfalls": 25.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 10,
+"preAllocationShotfalls": 66.0,
+"allocationShotfalls": 62.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 11,
+"preAllocationShotfalls": 60.0,
+"allocationShotfalls": 56.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 12,
+"preAllocationShotfalls": 92.0,
+"allocationShotfalls": 88.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 13,
+"preAllocationShotfalls": 94.0,
+"allocationShotfalls": 90.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 14,
+"preAllocationShotfalls": 27.0,
+"allocationShotfalls": 23.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 15,
+"preAllocationShotfalls": 43.0,
+"allocationShotfalls": 39.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 16,
+"preAllocationShotfalls": 75.0,
+"allocationShotfalls": 71.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 17,
+"preAllocationShotfalls": 74.0,
+"allocationShotfalls": 70.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 18,
+"preAllocationShotfalls": 41.0,
+"allocationShotfalls": 37.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 19,
+"preAllocationShotfalls": 61.0,
+"allocationShotfalls": 57.7,
+"afterAllocationShotfalls": 3.3
+}, {
+"fundPoolId": 20,
+"preAllocationShotfalls": 64.0,
+"allocationShotfalls": 60.7,
+"afterAllocationShotfalls": 3.3
+}]
+}

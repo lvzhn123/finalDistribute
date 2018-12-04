@@ -1,0 +1,10 @@
+时间有限，简易搭了个springboot服务，望谅解。
+使用jdk8，运行启动SolutionApplication即可
+端口8080，服务地址：/solution/calculateFinalDistribute?spendAmt=
+为便于测试，写了个单元测试类 SolutionApplicationTest
+具体接口调用方法请参见test函数。
+返回格式如下：
+success：
+{"resultCode":0,"resultMsg":"success","list":[{"fundPoolId":1,"preAllocationShotfalls":20,"allocationShotfalls":216,"afterAllocationShotfalls":-196}...]｝
+fail:
+{"resultCode":-1,"resultMsg":"系统调用异常，异常原因：Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: \"dd5000\""}
